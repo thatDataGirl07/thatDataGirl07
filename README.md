@@ -10,6 +10,6 @@ App Development: ![Android Studio](https://img.shields.io/badge/Android_Studio-3
 
 **Connect with me:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessing-c-onu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessing-c-onu-8b22912b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/blessingCOnu)
 
