@@ -4,17 +4,16 @@ I'm an aspiring **Data Analyst** based in Nigeria, currently learning in public.
 This repo tracks my progress as I build skills across the core data tools.
 
 **What I'm Learning:**
-**Excel**: Pivot tables, VLOOKUP, XLOOKUP, data cleaning, dashboards
+**Excel**
 
 
-**SQL**: MySQL - SELECT, JOINs, Aggregates, Window Functions
+**SQL**
 
 
-**Python**: Pandas, NumPy, Matplotlib for data analysis
+**Python**
 
 
-**Power BI**: Data modeling, DAX, interactive dashboards
-
+**Power BI**
 
 
 **How this repo is organized:**
